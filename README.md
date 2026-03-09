@@ -5,7 +5,7 @@ Esta es la API del servicio de autenticación del sistema de Gestión Logístico
 ## 🛠️ Tecnologías Utilizadas
 
 *   **Node.js**: Entorno de ejecución para JavaScript.
-*   **Express.js**: Framework para la creación de APIs REST. MOMENTANEO SE PLANEA MEJORAR CON TYPESCRIPT SIN FRAMEWORK O TAL VEZ NEXT.JS
+*   **Express.js**: Framework para la creación de APIs REST. 
 *   **JSON**: Formato para el intercambio de datos. MOMENTANEO SE PLANEA MEJORAR CON UNA BASE DE DATOS REAL (RELACIONAL O NO RELACIONAL)
 
 ## 📁 Estructura del Proyecto
@@ -33,7 +33,7 @@ Sigue estos pasos para poner en marcha la API en tu computador Profe si no le fu
     ```
 4.  **Iniciar el servidor**:
     ```bash
-    npm start
+    npm run dev
     ```
     *Nota: El servidor se ejecutará en http://localhost:3000* (PUERTO SOLICITADO POR EL PROFE)
 
@@ -65,6 +65,8 @@ Sigue estos pasos para poner en marcha la API en tu computador Profe si no le fu
 ---
 
 ## 🧪 Pruebas con Postman
+#Antes de probar la API con Postman, asegúrate de que el servidor esté corriendo.
+Como se inicia el servidor ya lo vimos en el punto anterior.
 
 Para probar la API con Postman:
 1. Abre Postman y crea una nueva **Request**.

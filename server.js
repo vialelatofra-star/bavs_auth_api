@@ -34,7 +34,7 @@ app.use('/api', authRoutes);
 
 // Ruta base opcional para verificar que el servidor funciona
 app.get('/', (req, res) => {
-    res.send('API de Control Logístico SENA funcionando correctamente 🚀');
+    res.send('API de Control Logístico BAVS funcionando correctamente 🚀');
 });
 
 /**
