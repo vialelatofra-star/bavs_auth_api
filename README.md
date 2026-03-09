@@ -21,7 +21,7 @@ Sigue estos pasos para poner en marcha la API en tu computador Profe si no le fu
 
 1.  **Clonar el repositorio** (o descargar la carpeta):
     ```bash
-    git clone https://github.com/bavs-sena/bavs_auth_api.git
+    git clone https://github.com/vialelatofra-star/bavs_auth_api.git
     ```
 2.  **Entrar a la carpeta del proyecto**:
     ```bash
